@@ -1,6 +1,6 @@
 ---
 title: "水素社会とは"
-author: tamtom
+author: default
 permalink: /
 ---
 
